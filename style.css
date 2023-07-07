@@ -5,3 +5,11 @@
     box-sizing: border-box;
 }
 
+.container{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #cf9aff, #95c0ff);
+    color: white;
+    padding-top: 4%;
+    padding-left: 10%;
+}
